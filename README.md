@@ -17,12 +17,17 @@ This purpose of this project was to build a MAME cabinet/arcade pedestal. A twit
 | /project_photos | Project build photos |
 
 ### Hackathon Team 🎉
+
 - Mark Ostrander
 - Josh Harris
 - Katie Lee
 - Anh Tran
 - Sean Placchetti
 
+### 540 Slack Channels 🎏
+
+- #hackathon2017
+- #hackathon-arcade
 
 ### RetroPie MAME Cabinet 👾
 
@@ -51,12 +56,3 @@ Below is supporting information for the cabinet we built.
 - [x] Create decals
 - [x] Load emulator games
 - [x] Test and play
-
-
-
-
-
-
-
-
-
