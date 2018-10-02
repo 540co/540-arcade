@@ -15,6 +15,7 @@ This purpose of this project was to build a MAME cabinet/arcade pedestal. A twit
 | /assets | Repo assets from README |
 | Instructables-4-Player-Pedestal-Arcade-Cabinet-for-MAME.pdf | Instructables construction and build instructions |
 | /project_photos | Project build photos |
+| /design_files | Arcade decal/vinyl sticker design files |
 
 ### Hackathon Team 🎉
 
